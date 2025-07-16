@@ -1,0 +1,6 @@
+train: C:/Users/HP/Desktop/NailDet/images/train
+val: C:/Users/HP/Desktop/NailDet/images/val
+
+nc: 1  
+
+names: ['nail']  
